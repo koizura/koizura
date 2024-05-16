@@ -11,4 +11,5 @@ Here are some cool things I've made:
   - A fast-paced online multiplayer top-down shooter game made for the web. Play it with your friends [here](https://www.koizura.me/shootout.html)!
 - **OpenGL-Raytracing**
   - GPU-driven raytracing with reflections and phong materials written in OpenGL and C++. Inspired by "Raytracing in a Weekend" by Peter Shirley, modified for parallel processing on the GPU. You can find the repo [here](https://github.com/koizura/OpenGL-Raytracing).
-
+- **Procedural Terrain Raymarcher**
+  - Fully procedural terrain with animated trees, water, clouds, water reflections, vignette, color post processing, shadows, phong shading, anti-aliasing, and fog. Developed as final project for CS184 - Computer Graphics at UC Berkeley. Final report can be found [here](https://sites.google.com/berkeley.edu/terraingenraymarcher/final-report).
